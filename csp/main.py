@@ -15,6 +15,7 @@ def requestScore(subject, id):
         data[key] = value
     return(data)
 
+# Variables
 subject = "CS"
 start = 1579
 end = 1811
